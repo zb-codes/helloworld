@@ -1,2 +1,2 @@
 # helloworld
-Hello World in every coding language I learn.
+Hello World in a ton of different languages!
